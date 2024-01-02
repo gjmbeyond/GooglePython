@@ -1,4 +1,4 @@
-with open("spider.txt", "rb+") as file:
+with open("spider.txt", "rb+") as file:  # gb
     for line in file:
         print(line.lower())  # 这种方式是有空行的
 
