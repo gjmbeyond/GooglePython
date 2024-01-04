@@ -1,1 +1,1 @@
-print("Powershell new-item ex1.py -file type")
+print("Powershell new-item ex1.py -file type")  # --coding:utf-8 --
