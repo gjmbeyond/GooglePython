@@ -1,0 +1,1 @@
+print("Powershell new-item ex1.py -file type")
