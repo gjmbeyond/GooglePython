@@ -15,7 +15,6 @@ print("He's got %s eyes and %s hair." % (my_eyes, my_hair))  # 两个变量需�
 print("His teeth are usually %s depending on the coffee." % my_teeth)
 print("I work in %r company" % my_company)  # %r 无论什么内容都打出来，所以连''也打上了。
 
-# 所有的 Python 格式化字符
 # Python中常用的格式化字符包括以下几种：
 # %s：表示将变量按照字符串形式进行输出。
 # %d：表示将变量按照十进制数值形式进行输出。
