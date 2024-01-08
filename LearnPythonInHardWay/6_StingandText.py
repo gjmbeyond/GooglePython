@@ -12,3 +12,5 @@ print(joke_evaluation % hilarious)  # ("Isn't that joke so funny?! %r" % hilario
 w = "This is the left side of..."
 e = "a string with a right side."
 print(w + e)
+
+# 2. 找到所有的”字符串包含字符串”的位置，总共有四个位置。
