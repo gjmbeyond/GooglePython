@@ -11,4 +11,4 @@ for lang in languageArr1:
         # 循环，但不是退出整个for循环，而会继续遍历后续的'Python'和'Go
         # '这两个元素。所以，本段代码的输出结果里包含了除'C++'以外的3个元素
     else:
-        print(lang)
+        print(lang)  # 遍历 languageArr1的列表元素
